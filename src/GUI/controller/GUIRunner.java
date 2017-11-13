@@ -4,7 +4,8 @@ public class GUIRunner
 {
 	public static void main(String [] args)
 	{
-		
+		GUIAppController app = new GUIAppController();
+		app.start();
 	}
-	myGuiAppController = new GUIController;
+	
 }
