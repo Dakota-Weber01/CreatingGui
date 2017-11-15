@@ -25,6 +25,9 @@ public GUIPanel(GUIAppController appController)
 		this.setBackground(Color.MAGENTA);
 		this.add(firstButton);
 	}
+	/**
+	 * Essentially dumping whatever garbage is thrown at you.
+	 */
 	private void setupLayout()
 	{
 		
